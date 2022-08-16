@@ -11,7 +11,7 @@ for the investors while you’re at it.
 As an Analyst, the first part of your job is extracting and analyzing the data. The next (equally
 important) part is communicating the story effectively to your stakeholders.<br>
 
-<b> FINAL COURSE PROJECT QUESTIONS : <br></b
+<b> FINAL COURSE PROJECT QUESTIONS : <br></b>
 
 <i>1 - First, I’d like to show our volume growth. Can you pull overall session and order volume, trended by quarter for the life of the business? Since the most recent quarter is incomplete, you can decide how to handle it. <br></i>
 
